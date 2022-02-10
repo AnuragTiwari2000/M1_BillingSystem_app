@@ -12,8 +12,8 @@
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
-#include<string.h>
-#include<windows.h>
+#include<string.h> 
+#include <windows.h>
 
  void input();
  void writefile();
