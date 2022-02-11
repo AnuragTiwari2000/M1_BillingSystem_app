@@ -15,7 +15,7 @@ char customern[20];
 
     printf("\t\t {{{{{{{{{{{{Welcome to VMart Shopping Center}}}}}}}}}}");
     
-    printf("\n1) Show Bill Details");
+    printf("\n1) Display Bill Details");
     printf("\n2) Display all generated Bills");
     printf("\n3) Search Bill or customer");
     printf("\n4) Exit");
