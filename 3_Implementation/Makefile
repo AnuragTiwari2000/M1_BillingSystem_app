@@ -1,7 +1,7 @@
 #Target: Dependencies
 #<TAB>commands
-PROJ_NAME = Customer Billing System
-SRC=billing_main.c billing.c  
+PROJ_NAME = ShoppingBill
+SRC=shoppingbillingsystem_main.c shoppingbillingsystem.c  
 ifdef OS
    RM = del /q
    FixPath = $(subst /,\,$1)
@@ -19,3 +19,11 @@ Build : $(SRC)
 
 Run :Build	
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
+
+
+
+
+
+
+Clean:
+	$(RM) $(call FixPath,*.out) 
