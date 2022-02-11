@@ -1,7 +1,7 @@
 /**
  * @file shoppingbillingsystem.c
  * @author Anurag Tiwari (you@domain.com)
- * @brief 
+ * @brief Project on Billing System
  * @version 0.1
  * @date 2022-02-11
  * 
