@@ -2,7 +2,7 @@
 
 * Customer Billing System Project is a simple console application designed to demonstrate the practical use of C programming language and its features as wells as to generate an application which can be used in any departmental store, shops, cafes etc. for billing to the customer.
 
-* You can use this application to keep the records such as name, address, mobile number, paid amount, due amount, payment date etc. of your regular costumer. Moreover, if you have a new customer, you can add and edit the account at any time.
+* You can use this application to find the bill of customer by calculating discount as well as GST and can also be helpful in retriving the bill in future.
 
 * This Billing system can be deployed in a real world situation. For example, it could be implemented for a telecommunication company to have effective billing of the customer and it could also be deployed as contractor to already existing networks.
 
@@ -12,7 +12,8 @@
 
 * It can hold any number of accounts and account can be added to the program at any time.
 * The programming of simple calculations such as calculation of due amount, balance etc. have been embed in the code of project.
-* The Customer Billing System project in C gives you the facility of searching the account by two ways, either by name of the customer or by the number of customer.
+* The Customer Billing System project in C gives you the facility of searching the account 
+ by entering the name of customer.
 * The due amount to be paid is shown as negative balance.
 * If you have nothing to do with the program, you can directly exit from the main menu
 
@@ -30,7 +31,7 @@
 
    * Costomer Billing System.
    * It keeps a record of customers and its payment details.
-   * It shows paid amount, due amount, payment date of a regular customer.
+   * It shows total amount including discount and GST for a regular customer.
 
 # WHY--
 
