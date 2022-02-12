@@ -31,15 +31,15 @@
 | LL8   | Retrieve the bill by customer name  |HL5  | IMPLEMENTED|
 
 
-## 5W AND 1H
+# 5W AND 1H
 
-# WHAT--
+## WHAT--
 
    * Costomer Billing System.
    * It keeps a record of customers and its payment details.
    * It shows total amount including discount and GST for a regular customer.
 
-# WHY--
+## WHY--
 
    * To maintain the payment record of a customer.
    * to keep the records such as name, address, mobile number, paid amount, due amount,
@@ -48,31 +48,31 @@
      future.
    * Since generating bill and storing it a very time consuming task and data may also get lost , so this system can generate Bills automatically and stores all details of the        bill and we can also search for generated bill by name of the customer
 
-# WHEN--
+## WHEN--
    
    * It is required to maintain customers payments records.
    * It act as a record during payment of due amount by customers.
 
-# WHERE--
+## WHERE--
 
    * It can be used in any departmental store, shops, cafes etc. for billing to the
      customers.
 
-# WHO--
+## WHO--
 
    * This billing system can be used by all shopkeepers or retailers to keeps the payment
      record of their regular customers.
 
-# HOW
+## HOW
 
    * Using C programming language.
    * Using software like visual studio code.
    * It takes customers details as input and keeps a record of their information.
 
 
-## SWOT ANALYSIS
+# SWOT ANALYSIS
 
-# STRENGTH
+## STRENGTH
 
    * Easy to use
    * Faster Billing, Instant Payments.
@@ -80,17 +80,17 @@
    * I can be accessible from anywhere.
    * I also enhanced security
 
-# WEAKNESS
+## WEAKNESS
 
    * It always require internet connection to operate.
 
-# OPPURTUNITIES
+## OPPURTUNITIES
 
    * Too many departmental stores, medical stores, Hotels, resturants where this system can
      be use to keep the records
    * Large numers of shopkeepers and retailers
 
-# THREAT
+## THREAT
 
    * More advanced machines than this are used in today's market.
    * Can also keep fake records.
