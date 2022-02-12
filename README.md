@@ -23,3 +23,16 @@ Repository for project on C programming
 
 ## Code Quality Score - Codiga
 ![Codiga Score](https://api.codiga.io/project/31196/score/svg)
+
+# FOLDER STRUCTURE
+
+|      FOLDER      |       DESCRIPTION      |
+|------------------|------------------------|
+| 0_CERTIFICATES   | certificates           |
+| 1_REQUIREMENT    |  Documents detailing requirements and research |
+| 2_ARCHITECTURE   |  Documents specifying design details           |
+| 3_ IMPLEMENTATION| All code files         |
+| 4_Test plan and Output | Documents with test plans and procedures |
+| 5_REPORT         |  Detailed Report of project |
+| 6_IMAGES         | Screenshots of Implementation and output       |
+| 7_REFERENCES     | References related to Project                  |
