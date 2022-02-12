@@ -26,7 +26,7 @@
 | LL3   | Display product, quantity and brands| HL2 | IMPLEMENTED|
 | LL4   | Calculate bills for all products | HL2  | IMPLEMENTED|
 | LL5   | Display total bills with discount and GST | HL3 | IMPLEMENTED|
-| LL6   | User give input to store or not to store bill| HL4 IMPLEMENTED|
+| LL6   | User give input to store or not to store bill| HL4 | IMPLEMENTED|
 | LL7   | Store the bill if input is yes      | HL4 | IMPLEMENTED|
 | LL8   | Retrieve the bill by customer name  |HL5  | IMPLEMENTED|
 
