@@ -40,6 +40,7 @@
      payment date etc. of your regular costumer.
    * It can be used by shopkeepers or retailers for collecting payments with customers in
      future.
+   * Since generating bill and storing it a very time consuming task and data may also get lost , so this system can generate Bills automatically and stores all details of the        bill and we can also search for generated bill by name of the customer
 
 # WHEN--
    
