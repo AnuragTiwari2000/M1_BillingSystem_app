@@ -14,3 +14,6 @@ Repository for project on C programming
 
 # CPP Check
 [![Cppcheck](https://github.com/AnuragTiwari2000/M1_BillingSystem_app/actions/workflows/staticanalysis.yml/badge.svg)](https://github.com/AnuragTiwari2000/M1_BillingSystem_app/actions/workflows/staticanalysis.yml)
+
+# Codiga
+https://api.codiga.io/project/31196/status/svg
