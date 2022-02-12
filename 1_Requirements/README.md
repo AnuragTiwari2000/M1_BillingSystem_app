@@ -10,19 +10,25 @@
 
 ## High level requirement
 
-* It can hold any number of accounts and account can be added to the program at any time.
-* The programming of simple calculations such as calculation of due amount, balance etc. have been embed in the code of project.
-* The Customer Billing System project in C gives you the facility of searching the account 
- by entering the name of customer.
-* The due amount to be paid is shown as negative balance.
-* If you have nothing to do with the program, you can directly exit from the main menu
-
+|ID   |  REQUIREMENT     | STATUS             |
+|-----|------------------|--------------------|
+| HL1 | Generate customer details| IMPLEMENTED|
+| HL2 | Generte bills details    | IMPLEMENTED|
+| HL3 | Total bills              | IMPLEMENTED|
+| HL4 | Store bills              | IMPLEMENTED|
+| HL5 | Retrieve bills           | IMPLEMENTED|
 ## Low level requirement
 
-* The low level Reqirement is this project are:-
-
-      * First we have to select what we want to do add or delete a customer records.
-      * Then you have to insert the value like customer id no. It will show all the details of particular customers
+|ID   | REQUIREMENT                |  HLR   | STATUS     |
+|---  |-------------------         |--------|----------  |
+| LL1   |Display present date on bill| HL1    | IMPLEMENTED|
+| LL2   | Display name of product    | HL1    | IMPLEMENTED|
+| LL3   | Display product, quantity and brands| HL2 | IMPLEMENTED|
+| LL4   | Calculate bills for all products | HL2  | IMPLEMENTED|
+| LL5   | Display total bills with discount and GST | HL3 | IMPLEMENTED|
+| LL6   | User give input to store or not to store bill| HL4 IMPLEMENTED|
+| LL7   | Store the bill if input is yes      | HL4 | IMPLEMENTED|
+| LL8   | Retrieve the bill by customer name  |HL5  | IMPLEMENTED|
 
 
 ## 5W AND 1H
