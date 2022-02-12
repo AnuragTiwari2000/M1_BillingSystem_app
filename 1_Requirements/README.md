@@ -88,3 +88,4 @@
 
    * More advanced machines than this are used in today's market.
    * Can also keep fake records.
+   * Any bugs can cause wrong calculation of bill
