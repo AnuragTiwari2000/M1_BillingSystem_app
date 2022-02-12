@@ -1,5 +1,5 @@
 #include "unity.h"
-#include "billing.h"
+#include "shoppingbillingsystem.h"
 
 #define PROJECT_NAME "billingsystem"
 
