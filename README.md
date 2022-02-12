@@ -19,4 +19,4 @@ Repository for project on C programming
 
 |Codacy | Codiga |
 |:------|--------|
-|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a5301355ff5f4f008b55fe58911f0f47)](https://www.codacy.com/gh/AnuragTiwari2000/M1_BillingSystem_app/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AnuragTiwari2000/M1_BillingSystem_app&amp;utm_campaign=Badge_Grade) | ![icode grade] (https://api.codiga.io/project/31196/score/svg) ![icode status](https://api.codiga.io/project/31196/status/svg) |
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a5301355ff5f4f008b55fe58911f0f47)](https://www.codacy.com/gh/AnuragTiwari2000/M1_BillingSystem_app/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AnuragTiwari2000/M1_BillingSystem_app&amp;utm_campaign=Badge_Grade) | ![icode grade] (https://api.codiga.io/project/31196/score/svg)  ![icode grade](https://api.codiga.io/project/31196/status/svg) |
