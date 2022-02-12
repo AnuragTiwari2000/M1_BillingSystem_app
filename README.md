@@ -24,6 +24,9 @@ Repository for project on C programming
 ## Code Quality Score - Codiga
 ![Codiga Score](https://api.codiga.io/project/31196/score/svg)
 
+## UNITY TESTING
+[![Unity Testing - Unity](https://github.com/AnuragTiwari2000/M1_BillingSystem_app/actions/workflows/unity.yml/badge.svg)](https://github.com/AnuragTiwari2000/M1_BillingSystem_app/actions/workflows/unity.yml)
+
 # FOLDER STRUCTURE
 
 |      FOLDER      |       DESCRIPTION      |
